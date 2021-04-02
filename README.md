@@ -2,10 +2,60 @@
 
 ## [Demo](https://mohamed159716.github.io/My-Reads-APP/)
 
-This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
+The My-Reads App allows you to select and categorize the books that you have read, are currently reading, or want to read. And you can search for books and add them to any shelf you have
 
-## How to Use the app
+## Getting Started
 
--   install all project dependencies with `npm install`
--   start the development server with `npm start`
--   Open the browser at `http://localhost:3000/`
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### **Prerequisites**
+
+To use this project must install [Node.js](https://nodejs.org/en/)
+
+### **Installing**
+
+To download the project app
+
+```bash
+git clone https://github.com/Mohamed159716/My-Reads-APP.git
+cd My-Reads-App
+```
+
+install all project dependencies with
+
+```bash
+npm install
+```
+
+> For Development Run
+
+To run the app with Development Server
+
+```bash
+npm start
+```
+
+Open the browser at:
+
+```
+http://localhost:3000/
+```
+
+<hr>
+
+> For Production Run
+
+To run the app with Production Server
+
+```bash
+npm run build`
+npm install -g server
+serve -s build
+
+```
+
+Open the browser at:
+
+```
+http://localhost:5000
+```
