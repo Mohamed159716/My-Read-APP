@@ -1,0 +1,18 @@
+.search-books {
+    .search-input {
+        margin-bottom: 40px;
+        input {
+            width: 100%;
+            padding: 15px 20px;
+            border: 0;
+            outline: 0;
+            border-radius: 10px;
+            box-shadow: 0 0 3px rgba(#333, 0.5);
+            transition: 0.5s ease-in-out;
+
+            &:focus {
+                box-shadow: 0 0 7px rgba(#333, 0.5);
+            }
+        }
+    }
+}
