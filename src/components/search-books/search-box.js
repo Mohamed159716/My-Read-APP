@@ -36,7 +36,7 @@ class SearchBooks extends Component {
                 (await BooksAPI.search(query).then((books) =>
                     Array.isArray(books)
                         ? this.handleShelf(books)
-                        : this.handleShelf
+                        : this.handleShelf([])
                 ));
         } catch (err) {
             console.log(err);

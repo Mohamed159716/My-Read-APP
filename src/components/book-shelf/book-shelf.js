@@ -42,6 +42,10 @@ class BookShelf extends Component {
               ))
             : (specificShelves = shelves);
 
+        if (books.length === 0) {
+            return <h3 className="book-not-found">No books found!</h3>;
+        }
+
         return (
             <div className="content">
                 {books.map((book) => {
