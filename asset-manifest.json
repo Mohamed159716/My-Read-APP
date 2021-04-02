@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/My-Reads-APP/static/css/main.b6d22cb7.chunk.css",
-    "main.js": "/My-Reads-APP/static/js/main.4a786f9b.chunk.js",
-    "main.js.map": "/My-Reads-APP/static/js/main.4a786f9b.chunk.js.map",
+    "main.css": "/My-Reads-APP/static/css/main.fc621a9d.chunk.css",
+    "main.js": "/My-Reads-APP/static/js/main.255ac7ae.chunk.js",
+    "main.js.map": "/My-Reads-APP/static/js/main.255ac7ae.chunk.js.map",
     "runtime-main.js": "/My-Reads-APP/static/js/runtime-main.d4009dbe.js",
     "runtime-main.js.map": "/My-Reads-APP/static/js/runtime-main.d4009dbe.js.map",
     "static/css/2.6ae2a6f3.chunk.css": "/My-Reads-APP/static/css/2.6ae2a6f3.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.6d65cca2.chunk.js.map": "/My-Reads-APP/static/js/3.6d65cca2.chunk.js.map",
     "index.html": "/My-Reads-APP/index.html",
     "static/css/2.6ae2a6f3.chunk.css.map": "/My-Reads-APP/static/css/2.6ae2a6f3.chunk.css.map",
-    "static/css/main.b6d22cb7.chunk.css.map": "/My-Reads-APP/static/css/main.b6d22cb7.chunk.css.map",
+    "static/css/main.fc621a9d.chunk.css.map": "/My-Reads-APP/static/css/main.fc621a9d.chunk.css.map",
     "static/js/2.3a4f820d.chunk.js.LICENSE.txt": "/My-Reads-APP/static/js/2.3a4f820d.chunk.js.LICENSE.txt",
     "static/media/all.css": "/My-Reads-APP/static/media/fa-solid-900.efbd5d20.eot"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d4009dbe.js",
     "static/css/2.6ae2a6f3.chunk.css",
     "static/js/2.3a4f820d.chunk.js",
-    "static/css/main.b6d22cb7.chunk.css",
-    "static/js/main.4a786f9b.chunk.js"
+    "static/css/main.fc621a9d.chunk.css",
+    "static/js/main.255ac7ae.chunk.js"
   ]
 }
