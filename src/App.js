@@ -7,7 +7,7 @@ import BookList from "./components/book-list/book-list";
 import * as BooksAPI from "./BooksAPI";
 
 class App extends Component {
-    state = { books: [], query: "Hello" };
+    state = { books: [] };
 
     getAllBooks = async () => {
         await BooksAPI.getAll().then((books) => this.setState({ books }));
